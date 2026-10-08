@@ -1,0 +1,3 @@
+Pakaian,P001,Kaos Polos,50000,Katun
+Pakaian,P002,Kemeja Flanel,150000,Flanel
+Aksesoris,A001,Topi Baseball,35000,Topi
